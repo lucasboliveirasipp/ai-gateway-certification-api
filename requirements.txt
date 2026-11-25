@@ -1,0 +1,16 @@
+python-dotenv==1.0.0
+fastapi
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+requests
+pytest
+azure-cosmos
+azure-identity
+cryptography==43.0.3
+httpx
+azure-ai-documentintelligence
+
+# Adicionado na revisão do portfólio (importado pelo código)
+urllib3
